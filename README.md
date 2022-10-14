@@ -1,3 +1,3 @@
-# mentalhealthapp
+# Health care app
 
 ### Demonstration Project
